@@ -1,6 +1,6 @@
 # BASH the Linux Boss
 
-An [Omarchy] theme: 60 bash and Linux reference
+An [Omarchy](https://omarchy.org/) theme: 60 bash and Linux reference
 wallpapers at 3840x2160, basics to pro, on a dark GitHub-style palette, plus a
  terminal unlock image.
 
@@ -12,7 +12,7 @@ i am going to soon make my puzzles public
 
 ## Install
 
-omarchy theme install https://github.com/darwin1811-newdev/omarchy-bash-the-linux-boss-theme.git
+    omarchy theme install https://github.com/darwin1811-newdev/omarchy-bash-the-linux-boss-theme.git
 
 Omarchy clones the repo into `~/.config/omarchy/themes/` and applies it. The
 theme name comes from the repo name with a leading `omarchy-` and a trailing
