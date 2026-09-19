@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: CC-BY-SA-4.0
+# SPDX-FileCopyrightText: BASH the Linux Boss contributors
+
 text             = "#c9d1d9"
 placeholder      = "#6e7681"
 text-error       = "#ff7b72"
